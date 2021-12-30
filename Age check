@@ -1,0 +1,6 @@
+myAge = 23
+legalAge = 21
+if myAge >= legalAge:
+print("Order yourself a cocktail 🍸!")
+else:
+print("Wait til ur older")
